@@ -356,6 +356,9 @@ span{
     margin-bottom: 3rem;
     color: white;
 }
+.contact h2 span{
+    text-shadow: 0 0 50px var(--main-color);
+}
 .contact form{
     max-width: 70rem;
     margin: 1rem auto;
